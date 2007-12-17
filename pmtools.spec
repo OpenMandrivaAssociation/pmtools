@@ -7,7 +7,6 @@ Group:		Development/Kernel
 
 Source:		http://ftp.kernel.org/pub/linux/kernel/people/lenb/acpi/utils/%{name}-%{version}.tar.bz2		
 Url:		http://ftp.kernel.org/pub/linux/kernel/people/lenb/acpi/utils
-BuildRoot:	%_tmppath/%name-%version-root
 
 %description
 
