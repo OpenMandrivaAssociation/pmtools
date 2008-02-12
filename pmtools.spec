@@ -10,7 +10,6 @@ Url:		http://ftp.kernel.org/pub/linux/kernel/people/lenb/acpi/utils
 BuildRoot:	%_tmppath/%name-%version-root
 
 %description
-
 This is a small collection of power management test and
 investigation tools.  See http://acpi.sourceforge.net
 for more information on ACPI for Linux.
