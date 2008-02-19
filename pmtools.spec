@@ -1,12 +1,12 @@
 Summary:	Tools for examining kernel ACPI tables	
 Name:		pmtools
-Version:	20061130
+Version:	20071116
 Release:	%mkrel 1
 License:	GPL
 Group:		Development/Kernel		
 
-Source:		http://ftp.kernel.org/pub/linux/kernel/people/lenb/acpi/utils/%{name}-%{version}.tar.bz2		
-Url:		http://ftp.kernel.org/pub/linux/kernel/people/lenb/acpi/utils
+Source:		http://www.lesswatts.org/patches/linux_acpi//%{name}-%{version}.tar.bz2		
+Url:		http://www.lesswatts.org
 BuildRoot:	%_tmppath/%name-%version-root
 
 %description
