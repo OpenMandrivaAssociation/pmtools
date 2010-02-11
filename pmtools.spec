@@ -1,10 +1,10 @@
 Summary:	Tools for examining kernel ACPI tables	
 Name:		pmtools
 Version:	20071116
-Release:	%mkrel 5
-License:	GPL
+Release:	%mkrel 6
+License:	GPLv2
 Group:		Development/Kernel		
-Source:		http://www.lesswatts.org/patches/linux_acpi//%{name}-%{version}.tar.bz2		
+Source:		http://www.lesswatts.org/patches/linux_acpi//%{name}-%{version}.tar.bz2	
 Url:		http://www.lesswatts.org
 BuildRoot:	%_tmppath/%name-%version-root
 
@@ -36,5 +36,3 @@ rm -fr %buildroot
 %{_sbindir}/madt
 %{_sbindir}/acpidump
 %{_sbindir}/acpixtract
-
-
