@@ -1,7 +1,7 @@
 Summary:	Tools for examining kernel ACPI tables	
 Name:		pmtools
 Version:	20071116
-Release:	%mkrel 6
+Release:	%mkrel 7
 License:	GPLv2
 Group:		Development/Kernel		
 Source:		http://www.lesswatts.org/patches/linux_acpi//%{name}-%{version}.tar.bz2	
