@@ -5,7 +5,7 @@ Release:	9
 License:	GPLv2
 Group:		Development/Kernel		
 Source:		http://www.lesswatts.org/patches/linux_acpi//%{name}-%{version}.tar.bz2	
-Url:		http://www.lesswatts.org
+Url:		https://www.lesswatts.org
 
 %description
 This is a small collection of power management test and
